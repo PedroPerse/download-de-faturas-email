@@ -1,0 +1,18 @@
+# Credenciais — NUNCA commitar
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/*.txt
+logs/*.log
+logs/*.png
+
+# Faturas baixadas
+faturas/
+
+# VS Code
+.vscode/
